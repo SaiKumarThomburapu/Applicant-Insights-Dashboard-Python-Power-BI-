@@ -1,0 +1,632 @@
+[
+  {
+    "applicant_id": 1000,
+    "name": "Micheal Garrett Jr.",
+    "email": "timothymoore@example.org",
+    "phone": "001-602-435-4293x57473",
+    "position": "Software Programmer",
+    "resume_match_score": 84,
+    "ai_interview_score": 80,
+    "role_fitment_score": 8.4,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 92,
+      "experience_match": 6,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "Digital Marketing",
+      "FinTech",
+      "Software"
+    ],
+    "personality_attributes": [
+      "self-awareness",
+      "quick understanding",
+      "committed",
+      "empathy",
+      "adaptability"
+    ],
+    "fitment_overview": {
+      "skill_fit": 92,
+      "cultural_fit": 77,
+      "behavioral_fit": 78,
+      "company_fit": 89,
+      "candidate_demand": "Moderate",
+      "trust_score": "High"
+    },
+    "joining_probability": {
+      "salary_expectation": "Below the range",
+      "notice_period": "1 Month",
+      "offer_in_hand": "No",
+      "location_preference": "Flexible"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "3-5 years",
+      "duration_in_recent_company": "1 years"
+    },
+    "resume_authenticity": {
+      "score": 78,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Team player",
+      "Strategic thinker",
+      "Culturally aligned"
+    ],
+    "concerns_risks": [
+      "Learning curve in technical domains",
+      "No prior experience in large corporates"
+    ],
+    "areas_of_improvement": [
+      "Monitor engagement in entrepreneurial mindset",
+      "Improve communication clarity"
+    ]
+  },
+  {
+    "applicant_id": 1001,
+    "name": "Jonathan Wilson",
+    "email": "rogersjacqueline@example.com",
+    "phone": "(581)340-3989",
+    "position": "Software Programmer",
+    "resume_match_score": 87,
+    "ai_interview_score": 94,
+    "role_fitment_score": 7.8,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 91,
+      "experience_match": 2,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "Software",
+      "Digital Marketing",
+      "Healthcare"
+    ],
+    "personality_attributes": [
+      "team player",
+      "eagerness",
+      "quick understanding",
+      "solid understanding",
+      "empathy"
+    ],
+    "fitment_overview": {
+      "skill_fit": 85,
+      "cultural_fit": 87,
+      "behavioral_fit": 88,
+      "company_fit": 85,
+      "candidate_demand": "Low",
+      "trust_score": "Low"
+    },
+    "joining_probability": {
+      "salary_expectation": "Within the range",
+      "notice_period": "Immediate",
+      "offer_in_hand": "Yes",
+      "location_preference": "Flexible"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "1-2 years",
+      "duration_in_recent_company": "5 years"
+    },
+    "resume_authenticity": {
+      "score": 90,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Strong PM skills",
+      "Fast learner",
+      "Strategic thinker"
+    ],
+    "concerns_risks": [
+      "No prior experience in large corporates",
+      "Potential return to entrepreneurship"
+    ],
+    "areas_of_improvement": [
+      "Improve communication clarity",
+      "Adjustment in large corporates"
+    ]
+  },
+  {
+    "applicant_id": 1002,
+    "name": "Cory Owen",
+    "email": "kaylamitchell@example.org",
+    "phone": "889-705-7205",
+    "position": "Software Programmer",
+    "resume_match_score": 87,
+    "ai_interview_score": 87,
+    "role_fitment_score": 7.6,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 80,
+      "experience_match": 5,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "Healthcare",
+      "FinTech",
+      "Software"
+    ],
+    "personality_attributes": [
+      "quick understanding",
+      "empathy",
+      "self-awareness",
+      "team player",
+      "committed"
+    ],
+    "fitment_overview": {
+      "skill_fit": 94,
+      "cultural_fit": 77,
+      "behavioral_fit": 91,
+      "company_fit": 75,
+      "candidate_demand": "Low",
+      "trust_score": "High"
+    },
+    "joining_probability": {
+      "salary_expectation": "Above the range",
+      "notice_period": "2 Months",
+      "offer_in_hand": "Yes",
+      "location_preference": "On-site"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "2-3 years",
+      "duration_in_recent_company": "4 years"
+    },
+    "resume_authenticity": {
+      "score": 73,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Strategic thinker",
+      "Fast learner",
+      "Culturally aligned"
+    ],
+    "concerns_risks": [
+      "Learning curve in technical domains",
+      "No prior experience in large corporates"
+    ],
+    "areas_of_improvement": [
+      "Monitor engagement in entrepreneurial mindset",
+      "Adjustment in large corporates"
+    ]
+  },
+  {
+    "applicant_id": 1003,
+    "name": "Sarah Franklin",
+    "email": "jessemontoya@example.org",
+    "phone": "753-782-9060x95220",
+    "position": "Software Programmer",
+    "resume_match_score": 76,
+    "ai_interview_score": 83,
+    "role_fitment_score": 8.8,
+    "fitment_recommendation": "Consider with Reservations",
+    "expertise": {
+      "skill_match": 78,
+      "experience_match": 5,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "IT",
+      "Software",
+      "FinTech"
+    ],
+    "personality_attributes": [
+      "empathy",
+      "committed",
+      "team player",
+      "eagerness",
+      "self-awareness"
+    ],
+    "fitment_overview": {
+      "skill_fit": 82,
+      "cultural_fit": 87,
+      "behavioral_fit": 85,
+      "company_fit": 95,
+      "candidate_demand": "Moderate",
+      "trust_score": "High"
+    },
+    "joining_probability": {
+      "salary_expectation": "Below the range",
+      "notice_period": "2 Months",
+      "offer_in_hand": "Yes",
+      "location_preference": "Flexible"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "2-3 years",
+      "duration_in_recent_company": "5 years"
+    },
+    "resume_authenticity": {
+      "score": 78,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Culturally aligned",
+      "Strategic thinker",
+      "Fast learner"
+    ],
+    "concerns_risks": [
+      "Learning curve in technical domains",
+      "No prior experience in large corporates"
+    ],
+    "areas_of_improvement": [
+      "Adjustment in large corporates",
+      "Monitor engagement in entrepreneurial mindset"
+    ]
+  },
+  {
+    "applicant_id": 1004,
+    "name": "Kara Dominguez",
+    "email": "qjohnson@example.org",
+    "phone": "+1-675-597-9174x8775",
+    "position": "Software Programmer",
+    "resume_match_score": 82,
+    "ai_interview_score": 90,
+    "role_fitment_score": 8.2,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 88,
+      "experience_match": 6,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "Ed-Tech",
+      "Healthcare",
+      "IT"
+    ],
+    "personality_attributes": [
+      "eagerness",
+      "adaptability",
+      "committed",
+      "empathy",
+      "quick understanding"
+    ],
+    "fitment_overview": {
+      "skill_fit": 81,
+      "cultural_fit": 91,
+      "behavioral_fit": 88,
+      "company_fit": 75,
+      "candidate_demand": "Moderate",
+      "trust_score": "Low"
+    },
+    "joining_probability": {
+      "salary_expectation": "Above the range",
+      "notice_period": "1 Month",
+      "offer_in_hand": "No",
+      "location_preference": "Remote"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "3-5 years",
+      "duration_in_recent_company": "4 years"
+    },
+    "resume_authenticity": {
+      "score": 86,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Fast learner",
+      "Strategic thinker",
+      "Culturally aligned"
+    ],
+    "concerns_risks": [
+      "Potential return to entrepreneurship",
+      "No prior experience in large corporates"
+    ],
+    "areas_of_improvement": [
+      "Monitor engagement in entrepreneurial mindset",
+      "Adjustment in large corporates"
+    ]
+  },
+  {
+    "applicant_id": 1005,
+    "name": "Daniel Terry",
+    "email": "nancydawson@example.net",
+    "phone": "313.942.0677x049",
+    "position": "Software Programmer",
+    "resume_match_score": 87,
+    "ai_interview_score": 88,
+    "role_fitment_score": 8.7,
+    "fitment_recommendation": "Consider with Reservations",
+    "expertise": {
+      "skill_match": 81,
+      "experience_match": 5,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "FinTech",
+      "Software",
+      "IT"
+    ],
+    "personality_attributes": [
+      "eagerness",
+      "solid understanding",
+      "quick understanding",
+      "self-awareness",
+      "committed"
+    ],
+    "fitment_overview": {
+      "skill_fit": 78,
+      "cultural_fit": 88,
+      "behavioral_fit": 79,
+      "company_fit": 91,
+      "candidate_demand": "High",
+      "trust_score": "Low"
+    },
+    "joining_probability": {
+      "salary_expectation": "Within the range",
+      "notice_period": "Immediate",
+      "offer_in_hand": "Yes",
+      "location_preference": "Flexible"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "2-3 years",
+      "duration_in_recent_company": "3 years"
+    },
+    "resume_authenticity": {
+      "score": 92,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Excellent communicator",
+      "Fast learner",
+      "Team player"
+    ],
+    "concerns_risks": [
+      "No prior experience in large corporates",
+      "Overqualified for narrow roles"
+    ],
+    "areas_of_improvement": [
+      "Monitor engagement in entrepreneurial mindset",
+      "Improve communication clarity"
+    ]
+  },
+  {
+    "applicant_id": 1006,
+    "name": "Bradley Tate",
+    "email": "kbridges@example.net",
+    "phone": "+1-737-730-0713",
+    "position": "Software Programmer",
+    "resume_match_score": 87,
+    "ai_interview_score": 94,
+    "role_fitment_score": 8.6,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 89,
+      "experience_match": 3,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "IT",
+      "Ed-Tech",
+      "Software"
+    ],
+    "personality_attributes": [
+      "adaptability",
+      "quick understanding",
+      "self-awareness",
+      "empathy",
+      "committed"
+    ],
+    "fitment_overview": {
+      "skill_fit": 78,
+      "cultural_fit": 88,
+      "behavioral_fit": 94,
+      "company_fit": 89,
+      "candidate_demand": "Moderate",
+      "trust_score": "High"
+    },
+    "joining_probability": {
+      "salary_expectation": "Above the range",
+      "notice_period": "2 Months",
+      "offer_in_hand": "No",
+      "location_preference": "On-site"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "2-3 years",
+      "duration_in_recent_company": "5 years"
+    },
+    "resume_authenticity": {
+      "score": 94,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Culturally aligned",
+      "Team player",
+      "Strong PM skills"
+    ],
+    "concerns_risks": [
+      "Potential return to entrepreneurship",
+      "Learning curve in technical domains"
+    ],
+    "areas_of_improvement": [
+      "Improve communication clarity",
+      "Adjustment in large corporates"
+    ]
+  },
+  {
+    "applicant_id": 1007,
+    "name": "Nathan Garner",
+    "email": "dmcdonald@example.com",
+    "phone": "665-864-5158x4253",
+    "position": "Software Programmer",
+    "resume_match_score": 79,
+    "ai_interview_score": 86,
+    "role_fitment_score": 8.6,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 76,
+      "experience_match": 2,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "FinTech",
+      "Healthcare",
+      "Software"
+    ],
+    "personality_attributes": [
+      "quick understanding",
+      "self-awareness",
+      "committed",
+      "team player",
+      "solid understanding"
+    ],
+    "fitment_overview": {
+      "skill_fit": 83,
+      "cultural_fit": 93,
+      "behavioral_fit": 93,
+      "company_fit": 87,
+      "candidate_demand": "Moderate",
+      "trust_score": "Low"
+    },
+    "joining_probability": {
+      "salary_expectation": "Below the range",
+      "notice_period": "2 Months",
+      "offer_in_hand": "Yes",
+      "location_preference": "Remote"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "3-5 years",
+      "duration_in_recent_company": "5 years"
+    },
+    "resume_authenticity": {
+      "score": 87,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Strong PM skills",
+      "Team player",
+      "Fast learner"
+    ],
+    "concerns_risks": [
+      "Overqualified for narrow roles",
+      "Learning curve in technical domains"
+    ],
+    "areas_of_improvement": [
+      "Adjustment in large corporates",
+      "Monitor engagement in entrepreneurial mindset"
+    ]
+  },
+  {
+    "applicant_id": 1008,
+    "name": "Stephanie Santana",
+    "email": "landerson@example.net",
+    "phone": "870.251.3949x3397",
+    "position": "Software Programmer",
+    "resume_match_score": 85,
+    "ai_interview_score": 83,
+    "role_fitment_score": 9.4,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 77,
+      "experience_match": 6,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "Software",
+      "Ed-Tech",
+      "IT"
+    ],
+    "personality_attributes": [
+      "empathy",
+      "self-awareness",
+      "solid understanding",
+      "eagerness",
+      "adaptability"
+    ],
+    "fitment_overview": {
+      "skill_fit": 88,
+      "cultural_fit": 82,
+      "behavioral_fit": 82,
+      "company_fit": 91,
+      "candidate_demand": "Low",
+      "trust_score": "High"
+    },
+    "joining_probability": {
+      "salary_expectation": "Within the range",
+      "notice_period": "1 Month",
+      "offer_in_hand": "No",
+      "location_preference": "On-site"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "1-2 years",
+      "duration_in_recent_company": "5 years"
+    },
+    "resume_authenticity": {
+      "score": 78,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Strategic thinker",
+      "Culturally aligned",
+      "Fast learner"
+    ],
+    "concerns_risks": [
+      "Learning curve in technical domains",
+      "Overqualified for narrow roles"
+    ],
+    "areas_of_improvement": [
+      "Adjustment in large corporates",
+      "Improve communication clarity"
+    ]
+  },
+  {
+    "applicant_id": 1009,
+    "name": "Jennifer Johnson",
+    "email": "ericsharp@example.com",
+    "phone": "+1-869-804-5132x8901",
+    "position": "Software Programmer",
+    "resume_match_score": 77,
+    "ai_interview_score": 84,
+    "role_fitment_score": 8.7,
+    "fitment_recommendation": "Recommended to Hire",
+    "expertise": {
+      "skill_match": 93,
+      "experience_match": 5,
+      "required_experience": 3
+    },
+    "industry_fit": [
+      "Healthcare",
+      "IT",
+      "Digital Marketing"
+    ],
+    "personality_attributes": [
+      "solid understanding",
+      "committed",
+      "adaptability",
+      "eagerness",
+      "empathy"
+    ],
+    "fitment_overview": {
+      "skill_fit": 75,
+      "cultural_fit": 83,
+      "behavioral_fit": 86,
+      "company_fit": 92,
+      "candidate_demand": "Low",
+      "trust_score": "Low"
+    },
+    "joining_probability": {
+      "salary_expectation": "Within the range",
+      "notice_period": "1 Month",
+      "offer_in_hand": "No",
+      "location_preference": "Flexible"
+    },
+    "transition_behavior": {
+      "any_duration_in_roles": "1-2 years",
+      "duration_in_recent_company": "1 years"
+    },
+    "resume_authenticity": {
+      "score": 80,
+      "comment": "Resume aligns with verbal responses"
+    },
+    "strengths": [
+      "Team player",
+      "Excellent communicator",
+      "Culturally aligned"
+    ],
+    "concerns_risks": [
+      "Learning curve in technical domains",
+      "No prior experience in large corporates"
+    ],
+    "areas_of_improvement": [
+      "Monitor engagement in entrepreneurial mindset",
+      "Adjustment in large corporates"
+    ]
+  }
+]

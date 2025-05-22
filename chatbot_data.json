@@ -1,0 +1,18 @@
+[
+  {
+    "applicant_id": "A101",
+    "timestamp": "2025-05-19T10:00:00",
+    "question": "How to apply?",
+    "response": "Go to the careers page.",
+    "sentiment": "positive",
+    "duration_sec": 4.5
+  },
+  {
+    "applicant_id": "A102",
+    "timestamp": "2025-05-19T10:02:00",
+    "question": "What is the deadline?",
+    "response": "End of this month.",
+    "sentiment": "neutral",
+    "duration_sec": 3.0
+  }
+]
